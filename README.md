@@ -19,7 +19,7 @@ We applied the k-means algorithm to a series of datasets using dendrograms, elbo
 
 > Code T6-6: We used the 'make_blobs' dataset from the scikit-learn library to calculate affinity propagation using the following tool from scikit-learn: from sklearn.cluster import AffinityPropagation.
 
-
+> Code T6-7: We worked with ring-shaped distributions, applying different algorithms such as k-means, k-medoids, and spectral clustering, which yielded the best results.
 
 
 
